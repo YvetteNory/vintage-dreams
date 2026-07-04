@@ -664,7 +664,7 @@ header nav a{
 
 h1{
     text-align: center;
-    font-size: var(--h1-r);
+    font-size: var(--h1-t);
     width: 100%;
 }
 .hero-txt a{
