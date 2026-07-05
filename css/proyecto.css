@@ -1006,9 +1006,14 @@ footer h3{
     align-items: center;
 }
 .column1,
-.column2,
-.column3{
+.column2
+{
     width: 100%;
+    text-align: center;
+    margin: 0;
+}
+.column3{
+    width: 50%;
     text-align: center;
     margin: 0;
 }
