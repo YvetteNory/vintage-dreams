@@ -41,7 +41,7 @@ body, html{
     --padding-a-r: 15px 15px;
     --padding-search-r: 5px 10px;
     --h1-r: 70px;
-    --h2-r: 40px;
+    --h2-r: 33px;
     --cuerpo-r: 20px;
     --font-a-r: 25px;
 
@@ -953,6 +953,7 @@ h1{
     margin: var(--margin-bottom-h2);
     font-family: var(--font-family-1);
     font-size: var(--h2-r);
+    
 }
 .txt h3{
     font-family: var(--font-family-1);
